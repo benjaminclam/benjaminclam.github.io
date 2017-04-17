@@ -1,0 +1,43 @@
+body {
+	background-image: url("https://images2.alphacoders.com/224/224760.jpg");
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.box {
+	background-color: white;
+	height: 500px;
+	width: 200px;
+	text-align: center;
+}
+h1 {
+	color: black;
+	text-align: center;
+	font-family: times;
+	font-size: 50;
+}
+h2 {
+	color: black;
+	text-align: center;
+	font-family: times;
+	font-size: 24;
+}
+p {
+	text-indent: 50px;
+	font-family: "Times New Roman", Times, Serif;
+	font-size: 12;
+	text-align: left;
+}
+img {
+	background-position: center;
+	width: 100%;
+}
+div {
+	outline-color: red;
+	outline-width: 5px;
+	outline-style: dotted;
+	border: 10px solid black;
+	height: 400px;
+	width: 25%;
+	padding: 0px 5px 10px 5px;
+}
